@@ -1,5 +1,5 @@
-I am Jacales
+I am Jacales 
+Python && Networks && ..
 
-**Dolazin di čagljevi zavijaju | crne noći bijeli putevi**
-# Python, Networks, chains etc
+di čagljevi zavijaju
 
