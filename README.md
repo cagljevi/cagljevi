@@ -1,6 +1,1 @@
-I am Jacales 
-
-Python && Networks && ..
-
-di čagljevi zavijaju
-
+box the hack
